@@ -6,6 +6,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#ignore keras tuner history
+**/kt_results/
+
 # C extensions
 *.so
 
